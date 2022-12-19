@@ -1,0 +1,616 @@
+,School Name,Locality,City,Phone Number,Details
+0,Aanchal International School - AIS, Sector 41-D ,"Chandigarh - 160036, Chandigarh, India","  9814448494
+                          ","['Play - Class X', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1990']"
+1,Adarsh Public School - APS," Sector 20-B, Near Jama Masjid ","Chandigarh - 160020, Chandigarh, India", (0172)-2725663,"['Play - Class V', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1963']"
+2,Air Force School 12 Wing," Air Force Station, 12 Wing ","Chandigarh - 160003, Chandigarh, India"," (0172)-2652110, 2630923 (Secondary Wing)
+                          ","['Class I - Class IX', 'CBSE Board', 'Government School (Air Force)', 'Co-Educational School']"
+3,Air Force School 3BRD," Sector 31-D, 3BRD ","Chandigarh - 160003, Chandigarh, India", (0172)-2641188,"['Class V - Class X', 'CBSE Board', 'Government School (Air Force)', 'Co-Educational School', 'Established in 1979']"
+4,Ajit Karam Singh International Public School - AKSIPS Chandigarh, Sector 41-A ,"Chandigarh - 160036, Chandigarh, India"," (0172)-2626541, 5005541
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+5,Ananda Marga Primary School," 334, Phase 2, Industrial Area ","Chandigarh - 160002, Chandigarh, India"," (0172)-2640851
+                          ","['Primary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+6,Andale Public School, Sector 21 ,"Chandigarh - 160022, Chandigarh, India"," (0712)-2703902
+                          ","['CBSE Board', 'Private School', 'Co-Educational School']"
+7,Ankur School," Panjab University Campus, Sector 14 ","Chandigarh - 160014, Chandigarh, India"," (0172)-2545792
+                          ","['Play - Class X', 'Private School', 'Co-Educational School', 'Established in 1976']"
+8,Anthony Christian High School," #5138, Sector 38 West ","Chandigarh - 160014, Chandigarh, India"," (0172)-2643503
+                          ","['Class V - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+9,Ashiana Public School, Sector 9-D ,"Chandigarh, Chandigarh, India", (0172)-2633772,"['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+10,Bachpan A Play School," Near Capital Bakery, Main Bazar, Nayagaon ","Chandigarh - 160103, Chandigarh, India","  9815315272, 9876235303
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+11,Bal Niketan Model Senior Secondary School," Sector 37-A, Opposite Water Works Office ","Chandigarh - 160036, Chandigarh, India"," (0172)-2697332
+                          ","['Play - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+12,Banyan Tree School, Sector 48-B ,"Chandigarh - 160047, Chandigarh, India"," (0172)-4602452, 4602453
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1986']"
+13,Bharatiya Vidya Bhavan," Jaisukhlal Hathi Sadan, Sector 27-B ","Chandigarh - 160019, Chandigarh, India"," (0172)-2656955, 5041630, 5041620","['Class V - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+14,Carmel Convent School, Sector 9-B ,"Chandigarh - 160009, Chandigarh, India"," (0172)-2740891
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+15,Chandigarh Baptist School, Sector 45-D ,"Chandigarh - 160047, Chandigarh, India"," (0172)-2602234, 2645646","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+16,Chitkara International School - CIS, Sector 25 (West) ,"Chandigarh - 160014, Chandigarh, India","  8288099489, 8288099490
+                          ","['Kindergarten - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+17,CL Aggarwal DAV Model School, Sector 7-B ,"Chandigarh - 160019, Chandigarh, India"," (0172)-2790092
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+18,CRB Public School, Sector 7-B ,"Chandigarh - 160007, Chandigarh, India", (0172)-2795875,"['Class V - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+19,DAV Model School, Sector 15-A ,"Chandigarh - 160015, Chandigarh, India", (0172)-2543956,"['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1966']"
+20,DAV Public School, Sector 8-C ,"Chandigarh - 160009, Chandigarh, India", (0172)-2548269,"['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1977']"
+21,DAV Senior Secondary School, Sector 18-D ,"Chandigarh - 160018, Chandigarh, India"," (0172)-2544356
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+22,Dayanand Model School," Main Road, Sector 7-C ","Chandigarh - 160019, Chandigarh, India"," (0172)-2791286
+                          ","['Class V - Class X', 'PSEB - Punjab School Education Board', 'Private School', 'Co-Educational School']"
+23,DC Montessori Senior Secondary Smart School," Near Modren Housing Complex, Manimajra ","Chandigarh - 160101, Chandigarh, India", (0172)-2734464,"['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+24,DC Montessori Smart School," Near Modern Housing Complex, Manimajra ","Chandigarh - 160101, Chandigarh, India", (0172)-2734464,"['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+25,Deep Public School," Plot No. 24, Village - Mouli Jagran ","Chandigarh - 160102, Chandigarh, India","  9855313126, 9855313127
+                          ","['Nursery - Class X', 'Private School', 'Co-Educational School', 'Established in 1994']"
+26,Defence Smart Public School," Saini Vihar, Phase III, Baltana ","Chandigarh, Chandigarh, India", (01762)-270151,"['Play - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+27,Delhi Public School - DPS Chandigarh, Sector 40-C ,"Chandigarh - 160047, Chandigarh, India"," (0172)-2690911, 2690991, 2690903","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2003']"
+28,Divya Public School, Sector 44-D ,"Chandigarh - 160044, Chandigarh, India"," (0172)-5260175, 2620808
+                          ","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+29,Don Bosco Sawera," House No. 3958-59, Sector 47-D
+ ","Chandigarh - 160047, Chandigarh, India", (0172)-2633795,"['Private School (School for Gifted Children)', 'Co-Educational School']"
+30,DRA Bhavan Vidyalaya - Junior Wing," Sector 33-D, Opposite to Rajasthan Bhavan ","Chandigarh - 160044, Chandigarh, India"," (0172)-4023471, 4023472, 4023475
+                          ","['Play - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1983']"
+31,DRA Bhavan Vidyalaya - Senior Wing," Jaisukhlal Hathi Sadan, Sector 27-B , Madhya Marg ","Chandigarh - 160019, Chandigarh, India"," (0172)-5041620, 2656955","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1983']"
+32,Dutt Vishesh School," Near New Blind School, Sector 26 ","Chandigarh - 160026, Chandigarh, India", (0172)-2793992,"['Play School', 'Private School', 'Co-Educational School']"
+33,EuroKids - Sector 37-D," Opp. #3048, Sector 37-D ","Chandigarh - 160036, Chandigarh, India"," (0172)-4668354
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+34,First Steps Play School," Sector 26
+ ","Chandigarh - 160019, Chandigarh, India"," (0172)-2792008, 2793992","['Play School', 'Private School', 'Co-Educational School']"
+35,FirstSteps IB World School," Opp. Behind Girls Hostel, Sector 26 ","Chandigarh - 160019, Chandigarh, India","  9872000013, 9988889948, 9988889947
+                          ","['Nursery - Class X', 'Private School', 'Co-Educational School']"
+36,Government Girls High School, Sector 25 ,"Chandigarh - 160014, Chandigarh, India"," (0172)-2700139
+                          ","['High Secondary School', 'CBSE Board', 'Government School', 'Girls Only School', 'Established in 1990']"
+37,Government Girls Higher Secondary School, Sector 21 ,"Chandigarh - 160021, Chandigarh, India"," (0172)-2708202
+                          ","['High Secondary School', 'Private School', 'Girls Only School']"
+38,Government Girls Senior Secondary School, Sector 20-B ,"Chandigarh - 160021, Chandigarh, India"," (0172)-2700720
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Girls Only School']"
+39,Government High School, Sector 24-A ,"Chandigarh - 160024, Chandigarh, India"," (0172)-2700112
+                          ","['High Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+40,Government Model High School," Sector 41-D, Village - Badheri ","Chandigarh - 160036, Chandigarh, India"," (0172)-2677012
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+41,Government Model High School - GMHS, Sector 34-C ,"Chandigarh - 160022, Chandigarh, India"," (0172)-2676003
+                          ","['High Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+42,Government Model Senior Secondary School - GMSSS, Sector 56 ,"Chandigarh - 160055, Chandigarh, India"," (0172)-2636875
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School', 'Established in 2006']"
+43,Government Senior Secondary School, Manimajara Town ,"Chandigarh - 160101, Chandigarh, India"," (0172)-2751002
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+44,Government Senior Secondary School - GSSS, Sector 45-A ,"Chandigarh - 160047, Chandigarh, India"," (0172)-2676028
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School', 'Established in 1986']"
+45,Green Castle Smart School," Near Govt. Creche, Sector 47-C ","Chandigarh - 160047, Chandigarh, India", (0172)-2630449,"['Play - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+46,Guru Nanak Khalsa Senior Secondary School, Sector 30-B ,"Chandigarh - 160030, Chandigarh, India"," (0172)-2654593, 2654693","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1965']"
+47,Guru Nanak Public School, Sector 36-D ,"Chandigarh - 160036, Chandigarh, India"," (0172)-2601214
+                          ","['Class X - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+48,Guru Teg Bahadur Public School," Adjacent to Gurudwara Sahib, Sector 15-C ","Chandigarh - 160017, Chandigarh, India"," (0172)-4064793, 2783013
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+49,Gurukul Global School," Adjoining Police Station, Manimajra, Near IT Park ","Chandigarh - 160101, Chandigarh, India"," (0172)-2735100, 2736100","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2008']"
+50,Gurukul School, Old Panchkula ,"Chandigarh - 160019, Chandigarh, India"," (0172)-2563172
+                          ","['CBSE Board', 'Private School', 'Co-Educational School']"
+51,Gyandeep Model Senior Secondary School, Sector 20-C ,"Chandigarh - 160020, Chandigarh, India"," (0172)-2771945, 2707524","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+52,Gyandeep Smart School, Sector 20 ,"Chandigarh - 160020, Chandigarh, India"," (0172)-2707524
+                          ","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+53,Holy Angel School," Bapudham Colony, Sector 26 ","Chandigarh - 160019, Chandigarh, India"," (0172)-2792145
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+54,Institute for Blind, Sector 26 ,"Chandigarh - 160019, Chandigarh, India"," (0172)-2791154, 2793958, 2793950
+                          ","['Class I - Class X', 'Private School', 'Co-Educational School']"
+55,International Public School," 525, Sector 8-A ","Chandigarh - 160008, Chandigarh, India"," (0172)-2601214, 2605019
+                          ","['Class X - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+56,Ishwar Singh Dev Samaj Senior Secondary School, Sector 21-C ,"Chandigarh - 160022, Chandigarh, India", (0172)-2706601,"['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1957']"
+57,Jainendra Public School," Sector 1, Zirakpur-Kalka Highway ","Chandigarh - 134108, Chandigarh, India"," (0172)-2567541, 2584575, 2560357, 2567541
+                          ","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1982']"
+58,Jawahar Navodya Vidyalaya - JNV," Sector 25, (West) ","Chandigarh - 160014, Chandigarh, India", (0172)-2605236,"['Class V - Class XII', 'CBSE Board', 'Government School (Navodaya Vidyalaya)', 'Co-Educational School']"
+59,KB DAV Senior Secondary Public School, Sector 7-B ,"Chandigarh - 160019, Chandigarh, India"," (0172)-2791496, 2792433","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1994']"
+60,Kendriya Vidyalaya - KV 23 BRD," 3 BRD, AFS ","Chandigarh - 160003, Chandigarh, India", (0172)-2655097,"['Senior Secondary School', 'CBSE Board', 'Government School (Kendriya Vidyalaya)', 'Co-Educational School']"
+61,Kendriya Vidyalaya - KV AFS High Grounds," Air Force Station, High Grounds ","Chandigarh - 160004, Chandigarh, India"," (01762)-288044
+                          ","['Class V - Class XII', 'CBSE Board', 'Private School (Kendriya Vidyalaya)', 'Co-Educational School', 'Established in 1984']"
+62,Kendriya Vidyalaya - KV OCF 29," OCF, Sector 29-B ","Chandigarh - 160030, Chandigarh, India"," (0172)-2658645, 2650502","['Class V - Class XII', 'CBSE Board', 'Government School (Kendriya Vidyalaya)', 'Co-Educational School']"
+63,Kendriya Vidyalaya - KV Sector 31, Sector 31-A ,"Chandigarh - 160031, Chandigarh, India", (0172)-2638953,"['Class V - Class XII', 'CBSE Board', 'Government School (Kendriya Vidyalaya)', 'Co-Educational School']"
+64,Kendriya Vidyalaya - KV Sector 47, Sector 47-A (Near Gurudawara) ,"Chandigarh - 160047, Chandigarh, India", (0172)-2633404,"['Class V - Class XII', 'CBSE Board', 'Government School (Kendriya Vidyalaya)', 'Co-Educational School']"
+65,Kids R Kids School, Sector 42-C ,"Chandigarh - 160036, Chandigarh, India"," (0172)-5074951
+                          ","['Play - Class V', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2002']"
+66,Kinderpillar Pre School," Adj. Community Centre, Sector 46-A ","Chandigarh - 160047, Chandigarh, India", (0172)-2634476,"['Play - Nursery', 'Private School', 'Co-Educational School']"
+67,Kundan International School," Chandi Path, Sector 46-B ","Chandigarh - 160047, Chandigarh, India","  8699059502
+                          ","['Play - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+68,Little Flower School," Near Housing Board Chowk, Mani Majra ","Chandigarh - 160101, Chandigarh, India", (0172)-2732732,"['Nursery - Class X', 'Private School', 'Co-Educational School']"
+69,Little Hearts The Fun School," Main Road, Sector 38-D, Landmark :- Opp. Government School ","Chandigarh - 160036, Chandigarh, India"," (0172)-4625673, 2691673
+                          ","['Nursery - Class V', 'CBSE Board', 'Private School', 'Co-Educational School']"
+70,Maharaja Jassa Singh Ramgarhia Public School, Sector 27-D ,"Chandigarh - 160019, Chandigarh, India"," (0172)-2652055
+                          ","['Class I - Class VIII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+71,Maharishi Dayanand Adarsh Vidyalaya, Sector 22-A ,"Chandigarh, Chandigarh, India"," (0172)-2701531, 5003848
+                          ","['Play - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+72,Manav Mangal High School, Sector 21-C ,"Chandigarh - 160022, Chandigarh, India"," (0172)-5039039, 5039040
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+73,MDAV Senior Secondary School," Main Road, Sector 22-A ","Chandigarh - 160022, Chandigarh, India"," (0172)-2701531
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+74,Modern Ways Model School, Sector 29-C ,"Chandigarh - 160030, Chandigarh, India"," (0172)-2638117
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+75,Mount Carmel School, Sector 47 ,"Chandigarh - 160047, Chandigarh, India", (0172)-2630145,"['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1987']"
+76,MRA Senior Secondary Model School, Sector 27-A ,"Chandigarh - 160019, Chandigarh, India"," (0172)-2651058, 2638652
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+77,National Institute of Open Schooling - NIOS," YMCA Complex, Sector 11-C ","Chandigarh - 160011, Chandigarh, India", (0172)-2744915,"['Senior Secondary School', 'Government School', 'Co-Educational School', 'Established in 1989']"
+78,Navodaya Vidyalaya Samiti," Bay No. 26-27, Sector 31-A ","Chandigarh - 160032, Chandigarh, India", (0172)-2638838,"['Class X - Class XII', 'CBSE Board', 'Private School (Navodaya Vidyalaya)', 'Co-Educational School', 'Established in 1986']"
+79,New Little Flower Playway School," #2501, Sector 44 ","Chandigarh - 160044, Chandigarh, India"," (0172)-2646224
+                          ","['Play School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+80,New Public School - NPS, Sector 18-B ,"Chandigarh - 160026, Chandigarh, India"," (0172)-2774162, 2724157, 2774792","['Class X - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1960']"
+81,Northridge International School, Sector 46-A ,"Chandigarh - 160047, Chandigarh, India", (0172)-2634476,"['Nursery - Class VII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+82,Pandit Mohan Lal S.D. Public School, Sector 32-C ,"Chandigarh - 160031, Chandigarh, India"," (0172)-2609669
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1989']"
+83,Play N Play School," SCO 188-90, Sector 34 ","Chandigarh - 160022, Chandigarh, India"," (0172)-2668035
+                          ","['Play School', 'Private School', 'Co-Educational School']"
+84,Playway Smart School," Opp. Water Works, Sector 37-A ","Chandigarh - 160036, Chandigarh, India", (0172)-2691405,"['Play - Class V', 'Private School', 'Co-Educational School']"
+85,PN Tagore Model School," #348,  Vill Khuda Lahora, ","Chandigarh - 160002, Chandigarh, India"," (0172)-2789083
+                          ","['CBSE Board', 'Private School', 'Co-Educational School']"
+86,Prince Model School, Sector 47-C ,"Chandigarh - 160047, Chandigarh, India"," (0172)-2630449
+                          ","['Play School', 'Private School', 'Co-Educational School']"
+87,RIMT World School," Opposite Shivalik Garden, Manimajra ","Chandigarh - 160101, Chandigarh, India"," (0172)-2735440, 2735441
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+88,Rosevilla Model School," 106, Sector 27 ","Chandigarh - 160019, Chandigarh, India"," (0172)-2651099
+                          ","['Private School', 'Co-Educational School']"
+89,Ryan International School, Sector 49-B ,"Chandigarh - 160047, Chandigarh, India"," (0172)-2632410
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2003']"
+90,S. Joseph Senior Secondary School," Near Boaster, Sector 44-D ","Chandigarh - 160047, Chandigarh, India"," (0172)-2662616, 4639566","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+91,S.D. Saini Model School, Sector- 38 ,"Chandigarh - 160014, Chandigarh, India"," (0172)-2692912
+                          ","['Private School', 'Co-Educational School']"
+92,S.D. Secondary School, Sector-24 ,"Chandigarh - 160023, Chandigarh, India"," (0172)-2780011
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1964']"
+93,Sacred Heart Senior Secondary School, Sector 26 ,"Chandigarh - 160026, Chandigarh, India"," (0172)-2792297
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Girls Only School']"
+94,Sai Niketan Public School," SCO 73, Sector 31-C ","Chandigarh - 160031, Chandigarh, India"," (0172)-2609100
+                          ","['Play School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+95,Saint Soldier International School, Sector 28-B ,"Chandigarh - 160002, Chandigarh, India"," (0172)-5024737, 5024738
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+96,Sanawar Montessori School, Sector- 11 ,"Chandigarh, Chandigarh, India"," (0172)-2747110
+                          ","['Play - Class V', 'Private School', 'Co-Educational School', 'Established in 1975']"
+97,Sanjay Public School Senior Secondary, Sector 44-B ,"Chandigarh - 160047, Chandigarh, India"," (0172)-2607148, 4653000","['Play - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+98,Sanjivni Preparatory School and Child Care Centre," H.No. 44, Sector 11-A ","Chandigarh - 160011, Chandigarh, India"," (0172)-4639258, 2746789","['Play - Nursery', 'Private School', 'Co-Educational School']"
+99,Sanskaar Play School," SCO 58-59, 3rd Floor, Sector 34 A ","Chandigarh - 160022, Chandigarh, India","  8449369369
+                          ","['Play School', 'Private School', 'Co-Educational School']"
+100,Saupin's School," Plot #14, Sector 32-A ","Chandigarh - 160047, Chandigarh, India"," (0172)-2664732, 2606090
+                          ","['Nursery - Class XI', 'CBSE Board', 'Private School', 'Co-Educational School']"
+101,Sharda Sarvhitkari Model Senior Secondary School," Near Sampark Center, Sector 40-D ","Chandigarh - 160036, Chandigarh, India"," (0172)-2694114
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+102,Shishu Niketan Model Senior Secondary School, Sector 22-D ,"Chandigarh - 160022, Chandigarh, India"," (0172)-2704966
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+103,Shishu Niketan Public School, Sector 43-A ,"Chandigarh - 160043, Chandigarh, India"," (0172)-2648966, 5014966
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+104,Shivalik Public School, Sector 41-B ,"Chandigarh - 160036, Chandigarh, India"," (0172)-2626913, 2627451","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1970']"
+105,Shri Guru Harikishen Model School, Sector 38-D ,"Chandigarh - 160036, Chandigarh, India"," (0172)-2691673, 4625673
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+106,Shri Kulwant Rai Sarvhitkari Vidya Mandir," Behind-Mini Market, Sector 43-B ","Chandigarh - 160022, Chandigarh, India"," (0172)-2667401
+                          ","['Play - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1970']"
+107,Sikhya School, Sector 46 ,"Chandigarh - 160047, Chandigarh, India"," (0172)-2664476, 5060455
+                          ","['Class I - Class VIII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+108,Silver Oak School," Kothi No. 3112, Sector 32-D ","Chandigarh - 160031, Chandigarh, India"," (0172)-2660330
+                          ","['Private School', 'Co-Educational School']"
+109,SportyBeans," FirstSteps School, Sector 26 ","Chandigarh - 160019, Chandigarh, India","  9888172007
+                          ","['Private School', 'Co-Educational School']"
+110,Spring Vally Kindercare," Opposite #2422, Phase XI ","Chandigarh - 160065, Chandigarh, India", (0172)-2230015,"['Play - Nursery', 'Private School', 'Co-Educational School', 'Established in 2000']"
+111,Sri Aurobindo School of Integral Education," Plot No. 1-A, Sector 27-A, Madhya Marg ","Chandigarh - 160019, Chandigarh, India"," (0172)-2656014, 5025222
+                          ","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+112,Sri Guru Gobind Singh Collegiate Public School, Sector 26 ,"Chandigarh - 160026, Chandigarh, India","  8288029338, 9815406979, 9417139948
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+113,Sri Guru Gobind Singh Senior Secondary School, Sector 35-B ,"Chandigarh - 160022, Chandigarh, India", (0172)-2621555,"['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+114,Sri Guru Harkrishan Model School, Sector 38-D ,"Chandigarh - 160014, Chandigarh, India"," (0172)-4625673, 2691673
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+115,Sri Guru Harkrishan Senior Secondary	Public School, Sector 40-C ,"Chandigarh - 160036, Chandigarh, India"," (0172)-2692838
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1986']"
+116,St. Anne's Convent School, Sector 32-C ,"Chandigarh - 160030, Chandigarh, India"," (0172)-2603278
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+117,St. John's High School, Sector 26 ,"Chandigarh - 160019, Chandigarh, India"," (0172)-2792571, 22792573, 22792574","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+118,St. Joseph's Senior Secondary School, Sector 44-D ,"Chandigarh - 160047, Chandigarh, India"," (0172)-2662616, 4639566
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1981']"
+119,St. Kabir Public School, Sector 26 ,"Chandigarh - 160019, Chandigarh, India"," (0172)-2791459, 2793437
+                          ","['Kindergarten - Class XII', 'ICSE/ISC Board', 'Private School', 'Co-Educational School', 'Established in 1974']"
+120,St. Mary's School, Sector 46-B ,"Chandigarh - 160002, Chandigarh, India"," (0172)-2633776, 2633575
+                          ","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+121,St. Peter's Senior Secondary School, Sector 37-B ,"Chandigarh - 160036, Chandigarh, India"," (0172)-2698800
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1985']"
+122,St. Stephen's School, Sector 45-B ,"Chandigarh - 160047, Chandigarh, India"," (0172)-2605767, 2664547
+                          ","['Class I - Class X', 'ICSE/ISC Board', 'Private School', 'Co-Educational School']"
+123,St. Xavier's Senior Secondary School, Sector 44-C ,"Chandigarh - 160044, Chandigarh, India"," (0172)-2607079, 2601706","['Nursery - Class XII', 'ICSE/ISC Board', 'Private School', 'Co-Educational School']"
+124,Star Public School, Sector 52 ,"Chandigarh - 160036, Chandigarh, India"," (0172)-2601120
+                          ","['Primary School', 'Private School', 'Co-Educational School']"
+125,Aastha Model School," Amartex Road, Industrial Area Phase I ","Panchkula - 134109, Haryana, India"," (0172)-2582323
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+126,Ajay Memorial High School, Sector 7 ,"Panchkula - 134109, Haryana, India"," (0172)-2561493
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+127,Akal Jyot Middle School," Lohgarh, Pinjore ","Panchkula - 134102, Haryana, India","  9416097746
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+128,Alpine School," Bhawana, Pinjore ","Panchkula - 134104, Haryana, India","  9254444494, 9815955556
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+129,Amravati Vidyalaya Senior Secondary School," Sector 2, Pinjore Kalka Urban Complex (PKUC) Amravati Enclave ","Panchkula - 134107, Haryana, India","  7056008814, 9729671444
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+130,Andale Public School," Site No. 1, Sector 9 ","Panchkula - 134108, Haryana, India","  8427700055
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+131,Andel Middle School, Sector 9 ,"Panchkula, Haryana, India","  9815100055
+                          ","['Primary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+132,Angel Middle School, Pinjore ,"Panchkula - 134102, Haryana, India"," (0172)-231134
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+133,Army Public School - APS Chandimandir," Sector D, Chandimandir Catt ","Panchkula - 134107, Haryana, India"," (0172)-2589605, 2586030
+                          ","['Class I - Class XII', 'CBSE Board', 'Government School (Army/Military)', 'Co-Educational School']"
+134,Arya Girls Senior Secondary School, Kalka ,"Panchkula - 133302, Haryana, India"," (01733)-220867
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Girls Only School']"
+135,Astha Middle School, Abaypur ,"Panchkula, Haryana, India","  9815407674, 9915282995
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+136,Azad Senior Secondary School, Pinjore ,"Panchkula - 134102, Haryana, India", (01733)-230563,"['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+137,B.K.M. Vishvas School, Sector 9 ,"Panchkula - 134108, Haryana, India"," (0172)-2584991, 2585991
+                          ","['Class X - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1987']"
+138,Ballistics Vidyalaya," TBRL Colony, Ramgarh ","Panchkula - 134116, Haryana, India"," (01733)-253039, 253046, 253017
+                          ","['Class V - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1994']"
+139,Bhavan Vidyalaya," Near Market, Sector 15 ","Panchkula - 134113, Haryana, India"," (0172)-2592509, 2593438
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+140,BKM Vishvas School, Sector 9 ,"Panchkula - 134108, Haryana, India"," (0172)-2584991, 2585991
+                          ","['Play - Class VIII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+141,Blooms Playway School," Chaudary Complex Rally Village, Sector 12-A ","Panchkula - 134112, Haryana, India"," (0172)-6543621
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+142,Blue Bird High School, Sector 16 ,"Panchkula - 134108, Haryana, India"," (0172)-2564822, 2567273","['Class V - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+143,BN Senior Secondary School, Sector 12-A ,"Panchkula - 134112, Haryana, India", (0172)-2564543,"['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+144,Bragnam - Shiwalik," Shiwalik, Panjera ","Panchkula - 174101, Haryana, India","  904145002
+                          ","['Play - Kindergarten', 'Private School', 'Co-Educational School']"
+145,BV High School," Rattepur, Pinjore ","Panchkula - 134102, Haryana, India"," (01733)-231536
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1994']"
+146,Chaman Lal DAV Senior Public School, Sector 11 ,"Panchkula - 134112, Haryana, India"," (0172)-2561295
+                          ","['Class V - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+147,Chitkara International School, Sector 28 ,"Panchkula - 134108, Haryana, India","  8288099490, 8288099491
+                          ","['Kindergarten - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+148,City Heart Middle School, Sector 10 ,"Panchkula - 134116, Haryana, India"," (0172)-2569599
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+149,Darshan Academy," Kirpal Ashram, Old Kasuli Road, Village- Khera Sita-Ram, Kalka ","Panchkula - 133302, Haryana, India", (01733)-329797,"['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+150,DAV Police Public School, Police Lines ,"Panchkula - 134116, Haryana, India","  8699014136
+                          ","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+151,DAV Senior Public School - Surajpur," BCW Surajpur, Tehsil - Kalka ","Panchkula - 133301, Haryana, India"," (0171)-2262540
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+152,DAV Senior Secondary School, Sector 8 ,"Panchkula - 134109, Haryana, India", (0172)-4668449,"['Class V - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+153,DC Model Senior Secondary School, Sector 7 ,"Panchkula - 134109, Haryana, India", (0172)-2596464,"['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+154,Delhi Public School - DPS Panchkula," Ishar Nagar, Himshikha, Pinjore ","Panchkula - 134102, Haryana, India"," (01733)-266842, 266843, 266844, 266845, 266694","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+155,Delhi Public Senior School - DPSS," Sector 7
+
+ ","Panchkula, Haryana, India","  9216513222
+                          ","['Nursery - Kindergarten', 'Private School', 'Co-Educational School']"
+156,Dikshant Global School, Sector 12 ,"Panchkula - 134112, Haryana, India", (0172)-6530664,"['Nursery - Class V', 'Private School', 'Co-Educational School']"
+157,Doon Public School, Sector 21 ,"Panchkula - 134113, Haryana, India"," (0172)-2590514, 2570897, 2583097","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+158,Eagle Primary School," Rettpur, Pinjore ","Panchkula - 134102, Haryana, India", (01733)-231284,"['Nursery - Class V', 'CBSE Board', 'Private School', 'Co-Educational School']"
+159,Firstep Montessori School," School Plot 2, Sector 7 ","Panchkula - 134109, Haryana, India"," (0172)-24624791, 2597791
+                          ","['Play - Nursery', 'Private School (Montessori)', 'Co-Educational School']"
+160,Gaurav Middle School," 271, Abheypur, Industrial Area Phase 1 ","Panchkula - 134113, Haryana, India", (0172)-2593063,"['Class V - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+161,Gayatri Middle School, Ramgarh ,"Panchkula - 134111, Haryana, India","  9217747085
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+162,Government Senior Secondary School - GSSS Bargodam, Bargodam ,"Panchkula - 134102, Haryana, India", (0172)-269553,"['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+163,Government Senior Secondary School - GSSS Barwala, Barwala ,"Panchkula - 134118, Haryana, India","  9815691761
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+164,Government Senior Secondary School - GSSS Basaulan, Basaulan ,"Panchkula - 134109, Haryana, India","  9896133478
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+165,Government Senior Secondary School - GSSS Bhareri," Bhareli, Barwala ","Panchkula - 134118, Haryana, India","  9876043012
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+166,Government Senior Secondary School - GSSS Bitna," Bitna, Pinjore
+
+ ","Panchkula - 134118, Haryana, India", (0172)-2555228,"['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+167,Government Senior Secondary School - GSSS Chikan," Chikan, Pinjore
+
+ ","Panchkula - 134102, Haryana, India","  9256013799
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+168,Government Senior Secondary School - GSSS Hangola, Hangola ,"Panchkula - 134204, Haryana, India","  9466763626
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+169,Government Senior Secondary School - GSSS Kalka, Kalka ,"Panchkula - 133302, Haryana, India"," (01733)-221070
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+170,Government Senior Secondary School - GSSS Karanpur," Karanpur, Pinjore ","Panchkula - 134102, Haryana, India", (01733)-2640509,"['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+171,Government Senior Secondary School - GSSS Khatauli, Khatauli ,"Panchkula, Haryana, India","  9416352324
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+172,Government Senior Secondary School - GSSS Mallah, Mallah ,"Panchkula - 134102, Haryana, India", (0172)-318952,"['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+173,Government Senior Secondary School - GSSS Mandhana, Mandhana ,"Panchkula, Haryana, India","  9465124398, 9465124399
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+174,Government Senior Secondary School - GSSS Morni Hills, Morni Hills ,"Panchkula, Haryana, India","  9466661828
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+175,Government Senior Secondary School - GSSS Pinjore, Pinjore ,"Panchkula, Haryana, India","  9416440762
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+176,Government Senior Secondary School - GSSS Raipur Rani," Raipur Rani
+ ","Panchkula, Haryana, India","  9896586473
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+177,Government Senior Secondary School - GSSS Rajjipur, Rajjipur ,"Panchkula, Haryana, India","  9217862574, 9466049151
+                          ","['Senior Secondary School', 'CBSE Board', 'Government School', 'Co-Educational School']"
+178,Gyandeep Public School, Sector 18 ,"Panchkula - 134113, Haryana, India"," (0172)-2598210, 2596067
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+179,Hallmark Public School, Sector 15 ,"Panchkula - 134112, Haryana, India"," (0172)-2593994, 2593093","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2004']"
+180,Hansraj Public School," Sector 6
+ ","Panchkula - 134109, Haryana, India"," (0172)-2573800, 2574800","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1950']"
+181,Haryana High School, Sector 10 ,"Panchkula - 134109, Haryana, India"," (0172)-2561742, 2561731, 2560945
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+182,Hindu Girls Senior Secondary School, Kalka ,"Panchkula - 133302, Haryana, India"," (01733)-220459
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Girls Only School']"
+183,Hindu Middle School, Abheypur ,"Panchkula - 134113, Haryana, India"," (0172)-3210208
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+184,HMT EES Senior Secondary School," HMT Colony, Pinjore ","Panchkula - 134101, Haryana, India"," (01733)-225634, 225500
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+185,Holy Child School, Morni Road ,"Panchkula - 134205, Haryana, India"," (0173)-3255012, 3255013, 3255014","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1995']"
+186,Jainendra Public School," Sector 1, (Zirakpur-Kalka Highway) 
+ ","Panchkula - 134108, Haryana, India"," (0172)-2584571, 2584575, 2560357, 2567541
+                          ","['Class V - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+187,Jawahar Navodaya Vidyalaya - JNV Mouli," Mouli, Near Barwala ","Panchkula - 134118, Haryana, India"," (01734)-258450, 209504","['Class V - Class XII', 'CBSE Board', 'Government School (Navodaya Vidyalaya)', 'Co-Educational School', 'Established in 1995']"
+188,JP Gurukul High School," 609, B2, Bitna Village Road, Near JP Gurukul School, Pinjore ","Panchkula - 134104, Haryana, India"," (01733)-230444
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+189,JPA Toddlers' World Preschool, Sector 10 ,"Panchkula - 134109, Haryana, India"," (0172)-2567821, 4677821
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+190,Kamal High School, Pinjore ,"Panchkula - 134102, Haryana, India"," (01733)-230235
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+191,Kendriya Vidyalaya - KV Bhanu," ITBP, BTC Bhanu Camp ","Panchkula - 134103, Haryana, India", (01733)-258151,"['Senior Secondary School', 'CBSE Board', 'Government School (Kendriya Vidyalaya)', 'Co-Educational School', 'Established in 1995']"
+192,Kendriya Vidyalaya - KV Pinjore," GC, CRPF, Pinjore ","Panchkula - 134104, Haryana, India", (01733)-266345,"['Senior Secondary School', 'CBSE Board', 'Government School (Kendriya Vidyalaya)', 'Co-Educational School']"
+193,Kidzee - Peer Muchalla," Shiva Foundation Charitable Trust Bollywood Heights Road, Opposite Tricity Mall ","Panchkula - 140603, Haryana, India","
+","['Play - Kindergarten', 'Private School', 'Co-Educational School']"
+194,Kidzee - Village Bhagwanpur," Amravati Enclave, Village Bhagwanpur ","Panchkula - 134107, Haryana, India","  9814015297
+                          ","['Play - Kindergarten', 'Private School', 'Co-Educational School']"
+195,Kidzee Parents and Guardians," Nursery School Site, Opposite House No. 475, Sector 12-A ","Panchkula - 134112, Haryana, India"," (0172)-6451645
+                          ","['Play - Kindergarten', 'Private School', 'Co-Educational School']"
+196,Kidzee Willow Tree Preschool," Opp. House No. 475, Sector 12A ","Panchkula - 134109, Haryana, India","  9815009933
+                          ","['Play - Kindergarten', 'Private School', 'Co-Educational School']"
+197,Kimberley International School," Samnwa, P.O. Hangola, NH-73, Haryana, India. Near Swami Devi Dyal Institute of Engineering and Technology, Barwala ","Panchkula - 134109, Haryana, India","  8685000201, 8685000222
+                          ","['Nursery - Class XII', 'Private School (International)', 'Co-Educational School']"
+198,Little Blooms - Pre-School (Play Way and Day Care), Sector 21 ,"Panchkula - 134116, Haryana, India", (0172)-4674942,"['Play School', 'Private School', 'Co-Educational School']"
+199,Little Flower Convent School, Sector 14 ,"Panchkula - 134113, Haryana, India"," (0172)-2574527
+                          ","['Class V - Class X', 'ICSE/ISC Board', 'Private School', 'Co-Educational School']"
+200,Little Kingdom Preparatory School," 1810, Sector 15 ","Panchkula - 134113, Haryana, India","  9417192811
+                          ","['Play - Kindergarten', 'Private School', 'Co-Educational School']"
+201,Little Millennium - Sector 20," Opposite Tricity Homes, Peer Muchalla, Sector 20 ","Panchkula - 134116, Haryana, India", (0172)-6543000,"['Play - Nursery', 'Private School', 'Co-Educational School']"
+202,Little Millennium - Sector 7," Opposite H.No. 520, Sector 7 ","Panchkula - 134109, Haryana, India", (0172)-6501222,"['Play - Nursery', 'Private School', 'Co-Educational School']"
+203,London Kids Preschool," SCO 2, Pinjore Baddi Highway, Aanchal Vihar Colony, Adjoining IDBI Bank, Lohgarh, Pinjore ","Panchkula - 134102, Haryana, India","  9996111023
+                          ","['Play School', 'Private School', 'Co-Educational School']"
+204,Lord Middle School, Sector 19 ,"Panchkula - 134109, Haryana, India"," (0172)-2569098
+                          ","['Primary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+205,Maha Anand Senior Secondary School, Raipur Rani ,"Panchkula, Haryana, India","  9416632399
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+206,Manav Mangal School, Sector 11 ,"Panchkula - 134108, Haryana, India"," (0172)-5066667, 5066668
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+207,Mother's Pride," Nursery Plot, B-Road, ADJ to Police Post, Sector 21 ","Panchkula - 134120, Haryana, India"," (0172)-2571244, 3294738","['Play School', 'Private School', 'Co-Educational School']"
+208,Mount Litera Zee School," Sector 14, Panchkula Extn- 2, 
+Panchkula-Barwala Highway, NH-73,
+Near Kot ","Panchkula - 134118, Haryana, India", (01733)-258002,"['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+209,MRA Modern Public School, Sector 7 ,"Panchkula - 134108, Haryana, India"," (0172)-259630, 4029701
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+210,My Pogo Preparatory Playway Activity School," #52-53, Mamta Enclave, Behind Nimantran Banquet Hall, Zirakpur-Kalka Road ","Panchkula - 140603, Haryana, India","  9988778278
+                          ","['Play School', 'Private School', 'Co-Educational School']"
+211,Nav Bal Niketan Public High School, Sector 12-A ,"Panchkula - 122001, Haryana, India", (0172)-2567577,"['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+212,Nav Bhartia Middle School, Barwala ,"Panchkula - 134118, Haryana, India", (01733)-257027,"['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+213,New India High School," Rathpur Colony, Pinjore ","Panchkula - 134104, Haryana, India", (01733)-230888,"['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+214,New India Public School, Sector 15 ,"Panchkula - 134109, Haryana, India"," (0172)-2565300
+                          ","['Class V - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+215,New Indian Senior Secondary School, Sector 15 ,"Panchkula - 134115, Haryana, India"," (0172)-2594373, 2565300
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+216,Nigania High School," Shahjahanpur, Raipur Rani ","Panchkula - 134204, Haryana, India","  9216751156
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+217,Ningania Vidya Mandir," Village- Shajanpur, P.O. Raipur Rani ","Panchkula - 134109, Haryana, India"," (0172)-2254297
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+218,Noble High School," Vishavkarma Colony, Pinjore ","Panchkula - 134102, Haryana, India", (01733)-230784,"['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+219,Parwati Middle School, Bhogpur ,"Panchkula - 134205, Haryana, India"," (0172)-266233
+                          ","['Primary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+220,PC Secondary School, Pinjore ,"Panchkula - 134107, Haryana, India", (01733)-230436,"['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+221,Prakash High School, Meheshpur ,"Panchkula - 134116, Haryana, India"," (0172)-2581781
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+222,R.B. Middle School, Kharnwali ,"Panchkula - 144001, Haryana, India", (0172)-269048,"['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+223,R.K. Middle School, Pinjore ,"Panchkula - 134102, Haryana, India"," (0172)-230154
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+224,R.S. Middle School, Kalka ,"Panchkula - 134102, Haryana, India"," (0172)-220370
+                          ","['High Secondary School', 'Private School', 'Co-Educational School']"
+225,S.D. High School, Kalka ,"Panchkula - 133302, Haryana, India"," (0172)-221060
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+226,Saint Soldier's Divine Public School, Sector 16 ,"Panchkula, Haryana, India"," (0172)-2565184, 2565645","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+227,Saket High School, Chandimandir ,"Panchkula - 134107, Haryana, India"," (0172)-2589020
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+228,Sapient Senior Secondary Public School," Nalagarh Road, Pinjore ","Panchkula - 134102, Haryana, India","  9896015767
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+229,Saraswati High School," Himshikha, Pinjore ","Panchkula - 134102, Haryana, India", (01733)-266103,"['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+230,Satluj Public School, Senior Wing:- Sector 4 ,"Panchkula - 134112, Haryana, India", (0172)-2560167,"['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+231,Saupin's School," Behind Prachin Shiv Mandir, Sector 9 ","Panchkula - 134109, Haryana, India","  9855512798, 8557993798","['Play - Class X', 'ICSE/ISC Board', 'Private School', 'Co-Educational School', 'Established in 1999']"
+232,Shemrock Bliss," 653/B-1, Ratpur Colony, Pinjore ","Panchkula - 134102, Haryana, India"," (01733)-230945
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+233,Shemrock Smiles," 7, Disha Arcade, Mansa Devi Complex Road ","Panchkula - 134109, Haryana, India", (0172)-3292631,"['Play - Nursery', 'Private School', 'Co-Educational School']"
+234,Shishu Niketan School," Mansa Devi Complex, Sector 5 ","Panchkula - 134109, Haryana, India"," (0172)-2556036, 2555396
+                          ","['Class V - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+235,Sikh Girls High School, Kalka ,"Panchkula - 133302, Haryana, India"," (0172)-220869
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Girls Only School']"
+236,Smart Kids," Baltana, Govind VIhar, Sector 19 ","Panchkula - 140603, Haryana, India","  9988838368
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+237,SMD Little Champ School," Sector 2, Near Ram Mandir ","Panchkula - 134109, Haryana, India"," (0172)-2573000, 2587444","['Play - Nursery', 'Private School', 'Co-Educational School']"
+238,Sophia Convent School," NH-22, Chandigarh Shimla Road ","Panchkula - 133302, Haryana, India"," (01733)-220138
+                          ","['Class V - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+239,SportyBeans," Eurokids, Sector 9 ","Panchkula - 134108, Haryana, India","  7837069389
+                          ","['Private School', 'Co-Educational School']"
+240,St. Soldier's School, Sector 16 ,"Panchkula - 134113, Haryana, India"," (0172)-2565184, 2565645, 2560471
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+241,St. Soldier’s School, Sector 16 ,"Panchkula - 134113, Haryana, India"," (0172)-2565184, 2565645, 2560471
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+242,St. Teresa's Convent School, Sector 25 ,"Panchkula - 134112, Haryana, India","  9256908170, 7696515777
+                          ","['Play - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+243,St. Vivek Study Hall Middle School, Kalka ,"Panchkula - 133302, Haryana, India", (0172)-220803,"['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+244,St. Vivekanand Millennium School, HMT Township ,"Panchkula - 134101, Haryana, India", (01733)-263960,"['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+245,St. Xavier's High School," Near GH-54, Sector 20 ","Panchkula - 134116, Haryana, India"," (0172)-2551844, 2566577
+                          ","['Nursery - Class X', 'ICSE/ISC Board', 'Private School', 'Co-Educational School']"
+246,Stone Brook High School, Kalka ,"Panchkula - 134102, Haryana, India"," (0172)-221056
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+247,Susan Middle School, Garhi Kotaha ,"Panchkula, Haryana, India","  9416195093
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+248,The Big Apple Play School, Sector 12 ,"Panchkula - 134109, Haryana, India"," (0172)-6573706
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+249,The British School - Sector 12, Sector 12 ,"Panchkula - 134109, Haryana, India"," (0172)-2564400, 2565400
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+250,Ajit Karam Singh International Public School - AKSIPS Mohali, Sector 65 ,"Mohali - 160061, Punjab, India"," (0172)-2234733, 2212000
+                          ","['Class V - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+251,Anee's  School," VIP Enclave, VIP Road, Opposite Penta Homes ","Mohali - 140603, Punjab, India","  9041337766, 9041447766
+                          ","['Play School', 'Private School', 'Co-Educational School']"
+252,Anee's School," Site No. 1, Sector 69
+ ","Mohali - 160059, Punjab, India"," (0172)-6542836
+                          ","['Class V - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+253,APJ Smart School, Kharar ,"Mohali - 140103, Punjab, India", (0160)-3012960,"['Class X - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+254,Ashmah International School," Sector 70, Near H.No. 115, S.A.S. Nagar ","Mohali - 160071, Punjab, India"," (0172)-4628139, 4610399","['Class V - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+255,Bachpan A Play School," Plot No. 95, AKS Colony, Behind Lucky Dhaba, Patiala Road, Zirakpur ","Mohali - 140603, Punjab, India", (01762)-509690,"['Play - Kindergarten', 'Private School', 'Co-Educational School']"
+256,Bachpan A Play School - Kurali," Siswan Road, Near Radha Swami Satsang Bhawan, Ward No. 7, Kurali ","Mohali - 140103, Punjab, India","  9988926283, 9780952539, 9872299696
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+257,Bachpan A Play School - Niholka Road," Shivalik Academy, Opposite Veterinary Hospital, Niholka Road ","Mohali - 140103, Punjab, India","  9417355174, 9417407307
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+258,Bachpan A Play School - Sahibzada Ajit Singh Nagar," Gulabassi Road, Derabassi, District Sahibzada Ajit Singh Nagar ","Mohali - 140603, Punjab, India","  9996642444, 9876656641
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+259,Bhartiya Public School," Dhanoni Road, Near Railway Crossing, Dera Bassi ","Mohali - 140507, Punjab, India"," (01762)-283636
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2016']"
+260,Birla Open Minds Preschool," C-124, Phase 8, Industrial Area, Landmark: SASIIT College ","Mohali - 160055, Punjab, India"," (0172)-6280373661, 6280361081","['Play - Kindergarten', 'Private School', 'Co-Educational School']"
+261,Blossom Convent School," Dashmesh Nagar, Old Shiv Mandir Road, Near Ramlila Ground, Naya Gaon ","Mohali - 160103, Punjab, India","  8557914405
+                          ","['Nursery - Class VIII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2009']"
+262,Blossoms Convent School," (Behind PGI and Near Church), Dashmesh Nagar, Nayagaon ","Mohali - 160103, Punjab, India","  9216027995
+                          ","['Play - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2009']"
+263,BMD Public School," Phase 9, Sector 63, Near Mohali Stadium ","Mohali - 160047, Punjab, India"," (0172)-5090419, 5063419
+                          ","['Private School', 'Co-Educational School']"
+264,Bragnam Lexicon,"  9256927554
+                          ",,Details:,"['Play - Kindergarten', 'Private School', 'Co-Educational School']"
+265,Brainworks," House No. 27, Near Shani Mandir, Opposite Fort Resort Dhakoli, Zirakpur ","Mohali - 140603, Punjab, India","  9501051197, 8146585797
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+266,Brookfield International School," Sheikhpura, New Chandigarh, Kurali-Siswan Road ","Mohali - 140110, Punjab, India","  9066790662
+                          ","['Play - Class VII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+267,Budha Dal Public School," Patiala Road, Zirakpur ","Mohali - 140603, Punjab, India","  9041075012, 8699045014, 9041025020
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+268,Career Point Gurukul," Landra-Banur Road, NH-16, Village- Tangori ","Mohali - 140055, Punjab, India", (0160)-2050075,"['Class V - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+269,Century Public School," Near PEC, Sector 12, Naya Gaon, SAS Nagar ","Mohali - 160103, Punjab, India"," (0172)-2785602
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+270,Chandigarh Public School," 4, Shyam Nagar, Opposite Tribune Colony, Baltana ","Mohali - 140603, Punjab, India", (01762)-562130,"['Class V - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+271,Clay Preschool," 2116, Sector 125, Sunny Enclave, Near Knowledge Bus School, Kharar ","Mohali - 140301, Punjab, India","  7009327910
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+272,Dashmesh Khalsa Public School, Phase 3-B-1 ,"Mohali - 160059, Punjab, India", (0172)-2260453,"['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1981']"
+273,DAV Public Senior Secondary School," Phase X, Sector 64, SAS Nagar ","Mohali - 160064, Punjab, India"," (0172)-2232299
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+274,Doon International School," Sector 69, SAS Nagar ","Mohali - 160062, Punjab, India"," (0172)-2216700, 2216842, 2216620","['Play - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+275,DPS Play School," H.No. 19, Opposite Pentahomes, Near Bristol Resort, VIP Road Zirakpur ","Mohali - 140603, Punjab, India","  9888953303
+                          ","['Play School', 'Private School', 'Co-Educational School']"
+276,EuroKids - Mohali," Adjacent to Cheema Medical Complex, Phase IV, SAS Nagar ","Mohali - 160055, Punjab, India","  9501177772
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+277,Flairz Play School," #53, Mamta Enclave, Dhakoli ","Mohali - 160104, Punjab, India","  8126397438
+                          ","['Play - Kindergarten', 'Private School', 'Co-Educational School']"
+278,Gem Public Senior Secondary School," Phase 3B2, S.A.S. Nagar ","Mohali - 160060, Punjab, India"," (0172)-5090720
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+279,Genius International Public School," NH-21, Near Gurudwara Solkhian, Roopnagar ","Mohali - 140101, Punjab, India"," (01881)-2400400
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2004']"
+280,Genius Public School - GPS, Sector 69 ,"Mohali - 160062, Punjab, India","  9914038208
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+281,Gian Jyoti Global School," Phase 2, SAS Nagar ","Mohali - 160055, Punjab, India", (0172)-4000518,"['Play - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1974']"
+282,Golden Bells Public School, Sector 77 ,"Mohali - 160071, Punjab, India", (0160)-2258449,"['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1984']"
+283,Green Field Smart School," Sector 59, Phase V ","Mohali - 160059, Punjab, India", (0172)-2264757,"['Play - Class X', 'Private School', 'Co-Educational School']"
+284,Green Jyoti Model School," Main Road, Plot No. 167, Sector 55 , Village - Pulsora ","Mohali - 160059, Punjab, India","  9464120624, 8283838294
+                          ","['CBSE Board', 'Private School', 'Co-Educational School']"
+285,Guru Gobind Singh Public School," Opposite House No. 118, Phase 9 ","Mohali - 160059, Punjab, India"," (0172)-5094030, 2211861
+                          ","['Play - Class V', 'Private School', 'Co-Educational School']"
+286,Guru Gobind Singh Vidya Mandir Senior Secondary School," Ratwara Sahib, P.O. Mullanpur, Garibdas ","Mohali - 140901, Punjab, India", (0160)-2255003,"['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2001']"
+287,Gurukul Vatika," SCO 12-13, 3rd Floor, Mandi Board Complex, Sector 65-A ","Mohali - 160062, Punjab, India", (0172)-5096370,"['Play - Nursery', 'Private School', 'Co-Educational School']"
+288,Gurukul World School," Sector 69, SAS Nagar ","Mohali - 160069, Punjab, India", (0172)-2216666,"['Play - Class X', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2010']"
+289,Hebron International School," SCO 14, Zirakpur, Near Chandigarh ","Mohali - 140603, Punjab, India", (0172)-2529200,"['Nursery - Class V', 'Private School', 'Co-Educational School']"
+290,Heritage Public School - HPHS," Near Sector 48 Motor Market, Jagatpura ","Mohali - 160017, Punjab, India","  8699046574, 9916255527
+                          ","['Play - Class XII', 'PSEB - Punjab School Education Board', 'Private School', 'Co-Educational School']"
+291,Hollyhock Nursery School," 18(Opposite House No. 36), Sector 71 ","Mohali - 160071, Punjab, India","  9815875665
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+292,Holy Mary's School," Chandigarh Patiala Road, P.O. Banur ","Mohali - 140601, Punjab, India", (0172)-252597,"['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+293,Indus Public School," Niashahar Badala, Kharar ","Mohali - 140301, Punjab, India", (0160)-3299457,"['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+294,Infant Jesus Convent School," Phase 11, Sector 65 ","Mohali - 160062, Punjab, India"," (0172)-2232008, 2232007
+                          ","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2006']"
+295,ISA Blue Bells Academy," Railway Road, Tarn Taran ","Mohali - 143401, Punjab, India","  9872114466
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+296,Jack n Jill," SCF 64, 3rd Floor Phase 3, B-2
+ ","Mohali - 140110, Punjab, India", (0172)-463370,"['Play - Nursery', 'Private School', 'Co-Educational School']"
+297,JLPL School, Sector 91 ,"Mohali - 140104, Punjab, India","  7307645566
+                          ","['Play - Class VI', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2013']"
+298,Kendriya Vidyalaya - KV Zirakpur," Zirakpur, 'K' Area ","Mohali - 140603, Punjab, India", (01762)-270844,"['Class V - Class XII', 'CBSE Board', 'Government School (Kendriya Vidyalaya)', 'Co-Educational School']"
+299,Kidzee," D-28A, Sector 15, New Chandigarh ","Mohali, Punjab, India","  9592677555, 9466131509
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+300,Kidzee - Gillco Valley," 438, Gillco Valley, Kharar, SAS Nagar ","Mohali, Punjab, India","  7380000848
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+301,Kidzee - Kharar," House No. 2126, Ground Floor, Sector 125, Sunny Enclave, Kharar ","Mohali - 140201, Punjab, India","  9988796966
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+302,Kidzee - Mullanpur," No. 275, Mullanpur ","Mohali - 141422, Punjab, India","  9592677555
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+303,Kidzee - Nayagaon," No. 909, Gali No. 5 Vikas Nagar Tehsil Majri ","Mohali, Punjab, India", (01795)-222565,"['Play - Nursery', 'Private School', 'Co-Educational School']"
+304,Kidzee - Saraswati Vihar," Street No. 1, Saraswati Vihar, Ward No. 12 S.A.S. Nagar ","Mohali - 140507, Punjab, India","  8968478877
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+305,Lakshmi Tara Rathour Public School," Sialba-Majri, An-EX Serviceman's Undertaking ","Mohali - 140110, Punjab, India"," (0160)-2643633
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+306,Lala Deep Chand Jain Public School," Village Mehmadpur, Derabassi, District - S.A.S. Nagar ","Mohali - 140507, Punjab, India"," (01762)-280235, 280035, 284069, 645895","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+307,Lawerance Learning Lounge," (0172)-2218386, 4603466",one_iphone,"
+","['Play - Nursery', 'Private School', 'Co-Educational School']"
+308,Lawrence Public Senior Secondary School, Sector 51 ,"Mohali - 160062, Punjab, India"," (0172)-2234986, 2234985","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+309,Learning Paths School," Site No. 66, Plot No. 3, Sector 67 ","Mohali - 160062, Punjab, India", (0172)-5134300,"['CBSE Board', 'Private School', 'Co-Educational School']"
+310,Lemmon World School," Mohali-Fathgarh Sahib Road, Near Chandigarh Engineering Collage, Landra ","Mohali, Punjab, India","  9501336655
+                          ","['Play - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+311,Little Chikoos Daycare and Playschool, Sector 71 ,"Mohali - 160071, Punjab, India","  9501366349
+                          ","['Play School', 'Private School', 'Co-Educational School']"
+312,London Kids Preschool," Shop No. 6, First Floor, Furniture Market Police Chowki Road, Ravinder Singh Sohi Marg, Sector 19 ","Mohali - 140604, Punjab, India","  8569077298
+                          ","['Play School', 'Private School', 'Co-Educational School']"
+313,Lord Mahavir Jain Public School," Near Railway Crossing, Dera Bassi ","Mohali - 140507, Punjab, India"," (01762)-281017, 284844","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2002']"
+314,Manav Mangal Smart School, Sector 64 (Phase X) ,"Mohali - 160057, Punjab, India"," (0172)-4669900, 4689900
+                          ","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1968']"
+315,Mata Sahib Kaur Public School," Village - Swara, P.O. Landran, Tehsil - Kharar, District - S.A.S Nagar ","Mohali - 160059, Punjab, India", (0172)-2250921,"['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+316,Max Aruther Macaulife Public School," 1106, PH-5, SAS Nagar ","Mohali - 160055, Punjab, India"," (0172)-2272739
+                          ","['Private School', 'Co-Educational School']"
+317,Mehar Model High School," Near Government School, Village - Kambala ","Mohali - 160055, Punjab, India","  9814861370
+                          ","['High Secondary School', 'Private School', 'Co-Educational School']"
+318,Mind Tree School - Kharar," Off Kharar - Kurali Road, Opposite Jamuna Apartments, Kharar Greater ","Mohali - 140301, Punjab, India","  9216032222
+                          ","['Kindergarten - Class III', 'CBSE Board', 'Private School', 'Co-Educational School']"
+319,Mount Carmel School, Sector 69 ,"Mohali - 160069, Punjab, India","  9041043654, 9041043655
+                          ","['Play - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+320,Mount Litera Zee School," Mubarakpur, Sundra Road, Derabassi
+ ","Mohali - 140507, Punjab, India","  9888060734
+                          ","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+321,Narayana e-Techno School," Plot No. 149, Sector 117 ","Mohali - 140301, Punjab, India","  8360662921
+                          ","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+322,National Public School," Morinda Road, Kurali ","Mohali - 140103, Punjab, India","  8699071081, 8699092081
+                          ","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+323,Oakridge International School, Next to Thunderzone Amusement Park ,"Mohali - 140301, Punjab, India", (0160)-6536111,"['Nursery - Class X', 'CBSE Board', 'Private School (International)', 'Co-Educational School']"
+324,Paragon Senior Secondary School," Plot No. 1, Opp. ACE Heart and Vascular Institute, Sector 69, SAS Nagar ","Mohali - 160062, Punjab, India","  9888736552, 9872769379, 9501516199
+                          ","['Play - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1987']"
+325,Path Finder High School," Sector 69, SAS Nagar ","Mohali - 160069, Punjab, India", (0172)-5099654,"['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+326,Pinkys Preschool and Day Care," House No. 388, Sector 65, Phase 11, S.A.S. Nagar ","Mohali - 140110, Punjab, India","  9915314410
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+327,Red Bishop Kidzhome," #33, Krishna Enclave, DhakoliI, Zirakhpur ","Mohali - 160104, Punjab, India","  8872029002
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+328,Rose Playway School," Budda Ashram, Near DC Office, Phase 1, SAS Nagar ","Mohali - 160055, Punjab, India","  9417769021
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+329,Ryan International School," Opposite ISB Sector 66, SAS Nagar ","Mohali - 160062, Punjab, India"," (0172)-2240206, 2240207","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+330,Sacred Souls' School, Gharuan Kharar ,"Mohali - 140413, Punjab, India","  8437574445, 8437774445
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 2004']"
+331,Saint Soldier International Convent School," Phase 7, Mohali, SAS Nagar ","Mohali - 160062, Punjab, India"," (0172)-4617261, 4614880","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1994']"
+332,Sanjay Public School, Sector 70 ,"Mohali - 160070, Punjab, India"," (0172)-5091575
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+333,Sant Isher Singh Public School," Sant Isher Public School, Phase 7 ","Mohali - 160059, Punjab, India"," (0172)-4674574, 2220415, 2218415
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+334,Saupin's School," Plot #16, Sector 70 ","Mohali - 160071, Punjab, India"," (0172)-2216123, 2216778","['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+335,Sesame Street Preschool," Villa No. 12, Sector 114, Ansal Golf Link-1 ","Mohali - 140307, Punjab, India","  9899236160, 8837537410
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+336,Shemrock Foundation School - 2," Street No. 13/14, Shakti Nagar ","Mohali - 140507, Punjab, India","  9914604055
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+337,Shemrock Senior Secondary School," Plot No. 2, Sector 69 ","Mohali - 160055, Punjab, India", (0172)-2216234,"['Nursery - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+338,Sherwood Convent School," Phase 4, S.A.S. Nagar ","Mohali - 160059, Punjab, India"," (0172)-2268801, 2225279
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+339,Shishu Niketan Public School, Sector 66 ,"Mohali - 160062, Punjab, India", (0172)-6533966,"['Class V - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School', 'Established in 1953']"
+340,Shivalik Public School, Phase 6 ,"Mohali - 160055, Punjab, India"," (0172)-2225486
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+341,Sir Mcauliff High School," Plot No. 15, Phase XI, Sector 65, SAS Nagar ","Mohali - 160055, Punjab, India", (0172)-2232015,"['High Secondary School', 'Private School', 'Co-Educational School', 'Established in 1996']"
+342,Small Wonders School," Opposite House No. 2900, Phase 7 ","Mohali - 160055, Punjab, India"," (0172)-2274834, 2274827, 5090834
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+343,Smart Kids," Opp. # 1678, Phase 10, Sector  64 ","Mohali - 140055, Punjab, India", (0172)-4623586,"['Play - Class I', 'Private School', 'Co-Educational School']"
+344,Smart Wonders School, Sector 71 ,"Mohali - 160071, Punjab, India"," (0172)-2270063, 2270064, 2270065","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+345,Spring Valley Kindercare," Opposite # 2422, Phase XI ","Mohali - 160062, Punjab, India", (0172)-2230015,"['Nursery - Kindergarten', 'Private School', 'Co-Educational School', 'Established in 2000']"
+346,St. Agnes School," 90, New Defence Colony, Back Side Lucky Dhaba, Zirakpur ","Mohali - 140603, Punjab, India"," (0176)-2509690
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+347,St. Ezra International Senior Secondary School," (Kharar-Morinda Road), Kharar ","Mohali - 140301, Punjab, India","  9876607740
+                          ","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+348,St. Paul's International School, Phase 6 ,"Mohali - 160055, Punjab, India"," (0172)-2270040
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+349,St. Soldier International Convent School," Phase 7, SAS Nagar ","Mohali - 160059, Punjab, India"," (0172)-4617261, 4614880","['Senior Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+350,St. Xavier's High School," Sector 71, S.A.S. Nagar ","Mohali - 160071, Punjab, India", (0172)-2227833,"['High Secondary School', 'ICSE/ISC Board', 'Private School', 'Co-Educational School']"
+351,Star Public School," Dividing Road, Sector 69, Opposite PSEB Hosuing Complex ","Mohali - 160062, Punjab, India"," (0172)-2217355
+                          ","['Play - Class X', 'PSEB - Punjab School Education Board', 'Private School', 'Co-Educational School']"
+352,Swami Ram Tirtha Smart School," Phase - 4, SAS Nagar ","Mohali - 160055, Punjab, India", (0172)-2227409,"['Class X - Class XII', 'CBSE Board', 'Private School', 'Co-Educational School']"
+353,The British School, Sector 70 ,"Mohali - 160071, Punjab, India", (0172)-4653000,"['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+354,The Gurukul," Savitry Greens II, Zirakpur ","Mohali - 140603, Punjab, India","  8968833300
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+355,The Millennium School," Plot No. 1, Phase 5, Sector 59 ","Mohali - 160059, Punjab, India"," (0172)-2222201, 2222202, 2222203
+                          ","['High Secondary School', 'CBSE Board', 'Private School', 'Co-Educational School']"
+356,The Poly Kids - Zirakpur," 203 Tower 10, Royal Estate, Chandigarh-Ambala Highway, Zirakpur ","Mohali - 140603, Punjab, India","  9501717656
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+357,Tiny Tots Foundation School," Plot No. 5, Phase 10 ","Mohali - 160064, Punjab, India", (0172)-2232822,"['Play - Nursery', 'Private School', 'Co-Educational School']"
+358,Vivek High School, Sector 70 ,"Mohali - 160071, Punjab, India"," (0172)-4625747, 4621747
+                          ","['Nursery - Class X', 'CBSE Board', 'Private School', 'Co-Educational School']"
+359,Woodsbury - The kindergarten Village," Plot No. L - 64 Opposite H.No. 737, Phase 10, Sector 64, Sahibzada Ajit Singh Nagar ","Mohali - 160064, Punjab, India"," (0172)-4655100
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+360,Wowkids Little Seeds," House No. 51, Sector 61, Phase 7 ","Mohali - 160062, Punjab, India","  9988811222
+                          ","['Play - Nursery', 'Private School', 'Co-Educational School']"
+361,Yadavindra Public School - YPS," Sector 51, S.A.S. Nagar ","Mohali - 160062, Punjab, India", (0172)-2232850,"['Senior Secondary School', 'ICSE/ISC Board', 'Private School', 'Co-Educational School', 'Established in 1979']"
